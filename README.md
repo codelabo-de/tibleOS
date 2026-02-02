@@ -8,7 +8,7 @@ tibleOSの無断コピー、転載は禁止されています。
 # 著作権法の取扱
 この文章および添付ファイル、リリース文章は、aタグで相手先のリンクを入力し、著作権法に意識して作成しています。
 この文章の無断転載は禁止です！  
-<div class="copyloght">Copylight Tible Corp,portcom inc. Do not distribute!</div>  
+<div class="copylight">Copylight Tible Corp,portcom inc. Do not distribute!</div>  
 Tible Corp、portcom inc.のロゴは商業利用できません。商業利用する特別な理由がある場合は連絡して利用してください。(スタッフの許可が必要です。)
 # 法律
 この文章を作成しているのはportcom Inc.のスタッフです。筆者の汚職、いじめは犯罪です！  
