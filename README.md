@@ -18,3 +18,14 @@ Tible Corp、portcom inc.のロゴは商業利用できません。商業利用�
 0120-279-338に連絡を！  
 これはチクりじゃなくて、ほかの人の命や心を守るための番号です！  
 他は、連絡をできる人に言ってみることです。これらを試すことで、いじめが解決するかもしてません。
+©2026 tible Corporation.
+©2026 portcom inc.  
+©2026 tibkun-assistant.  
+©2026 Tible Corpのjava工作工房.  
+©2026 GitHub.  
+©2026 Unicode.  
+©2026 UTF-8.
+©2026 Microsoft Corporation.
+©2026 Google LLC.
+©2026 All Sponsers.
+Thank you for sponsers.
