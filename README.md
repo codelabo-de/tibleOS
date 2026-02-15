@@ -11,21 +11,6 @@ tibleOSの無断コピー、転載は禁止されています。
 Copylight Tible Corp,portcom inc. Do not distribute!
 Tible Corp、portcom inc.のロゴは商業利用できません。商業利用する特別な理由がある場合は連絡して利用してください。スタッフの許可が必要です。  
 # 法律
-この文章を作成しているのはportcom Inc.のスタッフです。筆者の汚職、いじめは犯罪です！  
+この文章を作成しているのはportcom Inc.のスタッフです。筆者の汚職等は犯罪です！
 著作権法の許可を取ってこの文章を転載してください。  
 著作権法の取り扱いについては8行目から13行目を読んでください。  
-筆者等のいじめを発見したら:  
-0120-279-338に連絡を！  
-これはチクりじゃなくて、ほかの人の命や心を守るための番号です！  
-他は、連絡をできる人に言ってみることです。これらを試すことで、いじめが解決するかもしてません。  
-©2026 tible Corporation.  
-©2026 portcom inc.  
-©2026 tibkun-assistant.  
-©2026 Tible Corpのjava工作工房.  
-©2026 GitHub.  
-©2026 Unicode.  
-©2026 UTF-8.  
-©2026 Microsoft Corporation.  
-©2026 Google LLC.  
-©2026 All Sponsers.  
-Thank you for sponsers.
